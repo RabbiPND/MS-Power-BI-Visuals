@@ -1,2 +1,2 @@
 # MS-Power-BI-Visuals
-Microsoft power-bi visuals
+Microsoft power-bi netflix dashboard
